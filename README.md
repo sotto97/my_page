@@ -1,2 +1,2 @@
 # My page
-## This repository file is a practice of how to make a web design.
+## This repository file is introduction myself. This isn't deproy yet.
